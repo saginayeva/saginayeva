@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ASSEM </h1>
+<h1 align="center">Hi 👋 I'm ASSEM </h1>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="200"/>
 <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="200"/>
