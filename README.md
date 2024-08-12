@@ -3,9 +3,6 @@
 <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="200"/>
 <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="200"/>
 </div>
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/zzD83Y042i0b9kN22B/giphy.gif" width="200"/>
-</div>
 
 <div id="badges">
 <img src="https://github.com/saginayeva&style=flat-square&color=blue" alt=""/>
