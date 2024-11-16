@@ -34,7 +34,7 @@ I am a **QA Engineer**, from Prague, Czech Republic <img src="https://media.giph
 
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/assemgul-saginayeva/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/assemgul-saginayeva/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> and [mail]***<asemsaginayeva@gmail.com>***
 
 
 ---
