@@ -27,7 +27,7 @@ Hey there, connect with me:
 
 <h3 align="left">:woman_technologist: About me:</h3>
 
-I am a QA Engineer, from Prague, Czech Republic <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a **QA Engineer**, from Prague, Czech Republic <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I am a Software Engineer ensuring software quality and reliability while learning frontend development for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
