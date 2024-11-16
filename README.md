@@ -47,6 +47,8 @@ I am a **QA Engineer**, from Prague, Czech Republic <img src="https://media.giph
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" title="Cypress " alt="Cypress" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain-wordmark.svg" title="Cypress " alt="Cypress" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-line-wordmark.svg" title="Cypress " alt="Cypress" width="40" height="40" />&nbsp;
 <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" title="Selenium " alt="Selenium" width="40" height="40"/> </a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="JIRA "alt="JIRA"width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub "alt="GitHub "width="40" height="40"/>&nbsp;
