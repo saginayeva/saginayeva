@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm ASEM</h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="300" height="200" alt="Gif 1" />
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="300" height="200" alt="Gif 2" />
+  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="250" alt="Gif 1" />
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="250" alt="Gif 2" />
 </div>
 
 <hr /> <!-- Горизонтальная линия -->
@@ -16,7 +16,7 @@ Hey there, connect with me:
   </div> 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/R7LhjeNSLeOaYQZHe0/giphy-downsized-large.gif" width="800" height="300" />
+  <img src="https://media.giphy.com/media/R7LhjeNSLeOaYQZHe0/giphy-downsized-large.gif" width="750" />
 </div>
 
 <h3 align="left">:woman_technologist: About me:</h3>
