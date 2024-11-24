@@ -3,13 +3,10 @@
 <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="350"/>
 <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="350"/>
 </div>
-
 <div id="badges">
 <img src="https://github.com/saginayeva&style=flat-square&color=blue" alt=""/>
 </div>
-
 ---
-
 ### 
 <h1>
 Hey there, connect with me:
@@ -22,7 +19,7 @@ Hey there, connect with me:
   </div> 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/R7LhjeNSLeOaYQZHe0/giphy-downsized-large.gif" width="800" height="300" />
+  <img src="https://media.giphy.com/media/R7LhjeNSLeOaYQZHe0/giphy-downsized-large.gif" width="800" height="400" />
 </div>
 
 <h3 align="left">:woman_technologist: About me:</h3>
