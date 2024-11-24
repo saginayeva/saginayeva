@@ -1,16 +1,13 @@
-<h1 align="center">Hi 👋 I'm ASEM </h1>
+<h1 align="center">Hi 👋 I'm ASEM</h1>
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="350"/>
-<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="300" height="200" alt="Gif 1" />
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="300" height="200" alt="Gif 2" />
 </div>
-<div id="badges">
-<img src="https://github.com/saginayeva&style=flat-square&color=blue" alt=""/>
-</div>
----
-### 
-<h1>
+
+<hr /> <!-- Горизонтальная линия -->
+<h1 align="center">
 Hey there, connect with me:
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="badges">
     <a href="https://www.linkedin.com/in/assemgul-saginayeva/"> 
@@ -19,7 +16,7 @@ Hey there, connect with me:
   </div> 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/R7LhjeNSLeOaYQZHe0/giphy-downsized-large.gif" width="800" height="400" />
+  <img src="https://media.giphy.com/media/R7LhjeNSLeOaYQZHe0/giphy-downsized-large.gif" width="800" height="300" />
 </div>
 
 <h3 align="left">:woman_technologist: About me:</h3>
