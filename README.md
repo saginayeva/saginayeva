@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="250" alt="Gif 2" />
 </div>
 
-<hr /> <!-- Горизонтальная линия -->
+<hr /> 
 <h1 align="center">
 Hey there, connect with me:
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
