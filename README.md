@@ -16,7 +16,7 @@ Hey there, connect with me:
   </div> 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/R7LhjeNSLeOaYQZHe0/giphy-downsized-large.gif" width="750"  height="200" />
+  <img src="https://media.giphy.com/media/R7LhjeNSLeOaYQZHe0/giphy-downsized-large.gif" width="750"  height="300" />
 </div>
 
 <h3 align="left">:woman_technologist: About me:</h3>
