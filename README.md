@@ -48,4 +48,5 @@ I am a **QA Engineer**, from Prague, Czech Republic <img src="https://media.giph
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </p>
  
-![](https://komarev.com/ghpvc/?username=https://github.com/saginayeva) 
+![](https://komarev.com/ghpvc/?username=saginayeva)
+
