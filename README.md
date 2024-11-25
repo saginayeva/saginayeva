@@ -47,7 +47,5 @@ I am a **QA Engineer**, from Prague, Czech Republic <img src="https://media.giph
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" alt="html5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </p>
-
-<h1 align="center">Quality isn’t an act; it’s a habit</h1>
  
 ![](https://komarev.com/ghpvc/?username=https://github.com/saginayeva) 
