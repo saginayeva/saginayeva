@@ -49,7 +49,3 @@ I am a **QA Engineer**, from Prague, Czech Republic <img src="https://media.giph
 </p>
  
 ![](https://komarev.com/ghpvc/?username=saginayeva)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saginayeva&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saginayeva&theme=solarized_dark)
