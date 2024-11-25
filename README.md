@@ -49,4 +49,3 @@ I am a **QA Engineer**, from Prague, Czech Republic <img src="https://media.giph
 </p>
  
 ![](https://komarev.com/ghpvc/?username=saginayeva)
-
