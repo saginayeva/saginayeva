@@ -6,7 +6,7 @@
 
 <hr />
 
-<h1 align="center">On a journey to build, break, and improve software</h2>
+<h1 align="center">On a journey to build, break, and improve software</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/R7LhjeNSLeOaYQZHe0/giphy-downsized-large.gif" width="750"  height="300"" alt="Main Gif" />
@@ -47,3 +47,7 @@ I am a **QA Engineer**, from Prague, Czech Republic <img src="https://media.giph
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" alt="html5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </p>
+
+<h1 align="center">Quality isn’t an act; it’s a habit</h1>
+ 
+![](https://komarev.com/ghpvc/?username=https://github.com/saginayeva) 
