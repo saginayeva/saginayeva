@@ -37,8 +37,8 @@ I am a **QA Engineer**, from Prague, Czech Republic <img src="https://media.giph
   <img src="https://github.com/saginayeva/saginayeva/blob/main/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/saginayeva/saginayeva/blob/main/telegram_icon.png.png" title="Telegram" alt="Telegram" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/> 
-  <img src="https://github.com/saginayeva/saginayeva/blob/main/selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="nodejs" width="40" height="40"/>
+  <img src="https://github.com/saginayeva/saginayeva/blob/main/selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="40" height="40" /> 
   <img src="https://github.com/saginayeva/saginayeva/blob/main/allure_testops.png" title="Allure Testops" alt="Allure Testops" width="40" height="40" /> 
   <img src="https://github.com/saginayeva/saginayeva/blob/main/allure_report.png" title="Allure" alt="Allure" width="40" height="40" /> 
