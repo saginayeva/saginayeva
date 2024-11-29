@@ -6,7 +6,7 @@
 
 <hr />
 
-<h1 align="center">On a journey to build, break, and improve software</h1>
+<h1 align="center">On a journey to build, break, and improve software🛠️🔍💡🚀✨🤖🔧💻👩‍💻⚡🚧🎯</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/R7LhjeNSLeOaYQZHe0/giphy-downsized-large.gif" width="750"  height="300"" alt="Main Gif" />
