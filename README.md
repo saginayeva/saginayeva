@@ -14,7 +14,7 @@
 
 <h3 align="left">👩‍💻 About me:</h3>
 
-I work in software quality and test automation, based in Prague, Czech Republic <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+I am a QA Automation Engineer focused on software quality, based in Prague, Czech Republic. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 
 - 🔧 I focus on software quality, automation, and system behavior, with a strong interest in how reliable solutions are built. 
 - ⚡ In my free time, I enjoy reading about testing, systems, crypto, and engineering culture. 
