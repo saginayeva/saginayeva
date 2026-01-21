@@ -17,7 +17,7 @@
 I am a QA Automation Engineer focused on software quality, based in Prague, Czech Republic. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 
 - 🔧 I focus on software quality, automation, and system behavior, with a strong interest in how reliable solutions are built. 
-- ⚡ In my free time, I enjoy reading about testing, systems, crypto, and engineering culture. 
+- ⚡ In my free time, I enjoy reading about testing, coding, systems, crypto and engineering.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/assemgul-saginayeva/) or via email at **asemsaginayeva@gmail.com**  
 
 <hr />
